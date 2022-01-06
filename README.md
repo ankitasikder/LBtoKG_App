@@ -22,14 +22,13 @@
 
 ## Folder Structure :point_down:
 ```bash
-brain-trainer-android-app
+lbtokg-app
       └── app
            └── src
                 └── main
+                      ├── AndroidManifest.xml
                       └── java/com/example/braintrainer
-                                     ├── MainActivity.java
-                                     ├── gointent.java
-                                     └── splashscreen.java   
+                                     └── MainActivity.java 
  ```             
 ## Screenshots of NCS :point_down: 
 
