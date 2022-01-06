@@ -1,4 +1,4 @@
-# LBtoKG
+# LBtoKG ANDROID APP
 
 ***This 'Number Checking System' using Java is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -10,29 +10,27 @@
 <a href="https://github.com/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/)  
 
 ## About :point_down: 
 
 <div align="justified">
-  
 
-  
 </div>
- 
+
+## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+
 ## Folder Structure :point_down:
-
 ```bash
-NCS-JAVA
- └── Src
-      ├── Main.java
-      ├── COMPONENTS
-      |    ├── DEFINITIONS.java
-
-
-
-```                                  
-
+brain-trainer-android-app
+      └── app
+           └── src
+                └── main
+                      └── java/com/example/braintrainer
+                                     ├── MainActivity.java
+                                     ├── gointent.java
+                                     └── splashscreen.java   
+ ```             
 ## Screenshots of NCS :point_down: 
 
 <div align="center">
@@ -42,5 +40,8 @@ NCS-JAVA
 
 
 </div>
+
+         
+
 
 
