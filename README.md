@@ -15,10 +15,9 @@
 ## About :point_down: 
 
 <div align="justified">
-
+     
+This is an app made with java which takes value in lbs and converts it into kg. All we have to do is to just is to enter the value in pound or lbs and click on the button ''CONVERT''.It can be used easily by anyone for converting lbs value to kg.
 </div>
-
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
 ## Folder Structure :point_down:
 ```bash
@@ -27,10 +26,10 @@ lbtokg-app
            └── src
                 └── main
                       ├── AndroidManifest.xml
-                      └── java/com/example/braintrainer
+                      └── java/com/example/lbtokgapp
                                      └── MainActivity.java 
  ```             
-## Screenshots of NCS :point_down: 
+## Screenshots of this app :point_down: 
 
 <div align="center">
  
